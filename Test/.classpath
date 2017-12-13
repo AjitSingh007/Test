@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="jar/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="jar/client-combined-3.5.2-nodeps.jar"/>
+	<classpathentry kind="lib" path="jar/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="jar/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="jar/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="jar/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="jar/cssparser-0.9.23.jar"/>
+	<classpathentry kind="lib" path="jar/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="jar/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="jar/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="jar/htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="jar/htmlunit-core-js-2.27.jar"/>
+	<classpathentry kind="lib" path="jar/htmlunit-driver-2.27.jar"/>
+	<classpathentry kind="lib" path="jar/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="jar/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="jar/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="jar/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="jar/jetty-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="jar/jetty-http-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="jar/jetty-io-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="jar/jetty-util-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="jar/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="jar/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="jar/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="jar/neko-htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="jar/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="jar/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="jar/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="jar/websocket-api-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="jar/websocket-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="jar/websocket-common-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="jar/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="jar/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="jar/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="Apache POI Jar/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="Apache POI Jar/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="Apache POI Jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="Apache POI Jar/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="Apache POI Jar/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="Apache POI Jar/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="Apache POI Jar/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="Apache POI Jar/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="Apache POI Jar/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="Apache POI Jar/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="Apache POI Jar/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="Apache POI Jar/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="Apache POI Jar/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
