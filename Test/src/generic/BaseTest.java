@@ -14,12 +14,9 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Parameters;
 
 public abstract class BaseTest implements AutoConst
-{
- 
+{ 
 	//public static WebDriver driver;
 	public  WebDriver driver;
-	
-	
 	
 //	@Parameters("browser")
 //	@BeforeClass
