@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="script.Random"/>
+      <class name="script.VerifyLoginLogout"/>
+      <class name="script.TotalViews"/>
+      <class name="script.EditITskills"/>
+      <class name="script.HomePage"/>
+      <class name="script.Promocode"/>
+      <class name="script.New_project"/>
+      <class name="script.RadioButtonAndCheckbox"/>
+      <class name="script.SearchElements"/>
+      <class name="script.ProfilePerformance"/>
+      <class name="script.Graph_reading"/>
+      <class name="script.CountLinks"/>
+      <class name="script.Jobs"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
