@@ -50,12 +50,12 @@ public abstract class BaseTest implements AutoConst
 	//@AfterClass
 	public void CloseApplication(ITestResult result)
 	{
-//		String testName=result.getName();
-//		int status = result.getStatus();
-//		if(status==ITestResult.FAILURE)
-//		{
-//		Liberary.getSnapShot(driver, SNAP_PATH+testName);	
-//	}
+		String testName=result.getName();
+		int status = result.getStatus();
+		if(status==ITestResult.FAILURE)
+		{
+		Liberary.getSnapShot(driver, SNAP_PATH+testName);	
+	}
 		driver.quit();
 	}
 	

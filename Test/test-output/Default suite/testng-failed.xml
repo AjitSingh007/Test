@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="script.Graph_reading">
+      <class name="script.HomePage">
         <methods>
           <include name="CloseApplication"/>
           <include name="OpenApplication"/>
-          <include name="graphtest"/>
+          <include name="GetRecuiterNoMsg"/>
         </methods>
-      </class> <!-- script.Graph_reading -->
+      </class> <!-- script.HomePage -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
